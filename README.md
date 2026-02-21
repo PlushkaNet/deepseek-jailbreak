@@ -1,4 +1,5 @@
 # <ins>EN</ins>/[RU](README_ru.md)
+# [Usage example](usage_example.md)
 # How to use
 Open [prompt.txt file](prompt.txt) and copy & paste its content to deepseek first message
 ## Important note
