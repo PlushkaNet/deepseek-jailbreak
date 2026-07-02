@@ -1,5 +1,5 @@
 # 🔓 DeepSeek jailbreak
-# <ins>EN</ins>/[RU](README_ru.md)
+# <ins>🇺🇸 EN</ins>/[🇷🇺 RU](README_ru.md)
 # [📝 Usage example](usage_example_en.md)
 # 👉 How to use
 Open [prompt_en.txt file](prompt_en.txt) and copy & paste its content to deepseek first message
