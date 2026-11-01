@@ -1,3 +1,6 @@
+> [!CAUTION]
+> По состоянию на 01.11.2026 jailbreak более не работает с последней моделью DeepSeek
+
 # 🔓 DeepSeek jailbreak
 # [🇺🇸 EN](README.md)/<ins>🇷🇺 RU</ins>
 # [📝 Пример использования](usage_example_ru.md)

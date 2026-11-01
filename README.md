@@ -1,3 +1,6 @@
+> [!CAUTION]
+> As of 11/01/2026, jailbreak no longer works with the latest DeepSeek model
+
 # 🔓 DeepSeek jailbreak
 # <ins>🇺🇸 EN</ins>/[🇷🇺 RU](README_ru.md)
 # [📝 Usage example](usage_example_en.md)
